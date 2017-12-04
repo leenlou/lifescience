@@ -1,0 +1,22 @@
+Title: About
+
+----
+
+Text: 
+
+<p id="approach">LifeScience offers you an advanced approach to health and wellness through the LifeScience PRO System.</p>
+
+**PROfile**
+We begin with an in-depth Functional Medicine Consultation where our medical practitioner will chat with you and listen to your personal health goals, discuss your medical history and current lifestyle.
+
+**PRObe**
+Your initial conversation with our doctors give them an idea of what diagnostic tests you should consider in order to gain a deeper understanding of your body and identify system imbalances that need to be restored. We partner with the best laboratories in the world to give you access to cutting edge diagnostic tests including a variety of gene tests.
+							
+**PROgram**
+The results of your consultation and your diagnostic tests give us a comprehensive profile of your current health status.  Now we can design a customized program that can be applied to your daily routine and guides you to a more sustainable approach towards your health goal.
+
+No one knows your path to optimal health better than LifeScience!
+
+----
+
+Video-url: https://www.youtube.com/watch?v=UK9Mn30Ivkc

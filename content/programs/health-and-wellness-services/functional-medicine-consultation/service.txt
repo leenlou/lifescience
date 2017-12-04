@@ -1,0 +1,43 @@
+Title: Complete Health Profile
+
+----
+
+Description: Experience state-of-the-art medical techniques that allow you to take charge of your health.
+
+----
+
+Width: 95
+
+----
+
+Height: 98
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -908
+
+----
+
+Text: 
+
+Your health journey starts with our full understanding of your health profile. Our doctors will listen to your health history, ask how you are feeling lately, get to your lifestyle habits, and plan your health goal with you. Knowing your health profile will guide us in assessing your current health situation, recommending the tests that you need and developing your personalized health program.
+
+Duration per Consultation:
+
+* Initial Functional Medicine Consultation: 2-3 hours
+* Follow Up Functional Medicine Consultation with Diagnostics: 2-3 hours
+* Follow Up Functional Medicine Consultation without Diagnostics: 1-2 hours
+
+Includes:
+
+* Functional Medicine Analysis
+* Food Planning & Monitoring
+* Nutraceutical Protocol
+
+----
+
+Icon: functional-medicine-consultation.png

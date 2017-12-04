@@ -1,0 +1,38 @@
+Title: Environmental Tests
+
+----
+
+Description: Analyze the impact of the environment on your health.
+
+----
+
+Width: 130
+
+----
+
+Height: 112
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -388
+
+----
+
+Text: 
+
+Toxic metals are everywhere: food, water, air and everyday products. Exposure to large amounts can lead to poisoning. Symptoms range from headaches, weakness, muscle and joint pains, constipation, and fatigue. This test identifies the level of toxic substances in the body, such as:
+
+* Heavy Metals/ Toxic Elements
+* Organophosphates, Volatile Solvents, BPA, Phthalates and Parabens
+
+----
+
+Photo: core-nutrition-program.jpg
+
+----
+
+Icon: environmental-tests.png

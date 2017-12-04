@@ -1,0 +1,33 @@
+Title: Hyperbaric Oxygen Treatment (HBOT)
+
+----
+
+Description: Supplies your body with 100% oxygen as you relax in a pressurized chamber.
+
+----
+
+Width: 81
+
+----
+
+Height: 78
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -1006
+
+----
+
+Text: Our body needs an adequate supply of oxygen to function properly. Hyperbaric Oxygen Therapy boosts the oxygen flow in the body which accelerates healing, enhances energy, gives skin a youthful glow, boosts the immune system, and helps prevent age-related diseases.
+
+----
+
+Photo: core-nutrition-program.jpg
+
+----
+
+Icon: hyperbaric-oxygen-treatment-hbot.png

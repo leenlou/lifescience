@@ -1,0 +1,32 @@
+Title: Women's Month Promo
+
+----
+
+Text: (image: international-womens-month.png)
+
+----
+
+Photo: womens-month-promo.jpg
+
+----
+
+Description: In celebration of International Women's month, get a complimentary peri-menopause and menopause management consultation.
+
+----
+
+Featured: 1
+
+----
+
+Tags: international,month,women,peri-menopause
+
+----
+
+Author: LifeScience
+
+----
+
+Related: 
+
+- 
+  slug: you-are-what-you-eat

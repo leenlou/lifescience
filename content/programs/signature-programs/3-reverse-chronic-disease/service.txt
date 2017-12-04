@@ -1,0 +1,46 @@
+﻿Title: Reverse Chronic Disease
+
+----
+
+Description: A 6-month program that focuses on detoxification and strengthening the immune system in order to improve your condition.
+
+----
+
+Width: 100
+
+----
+
+Height: 97
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -189
+
+----
+
+Text: 
+
+This program is best for clients with diabetes, high cholesterol, heart diseases, and other illnesses that may be lifestyle-related. The program aims to improve your condition through detoxification and strengthening the immune system. These treatments can improve the quality of your life and prevent further disease-related complications.
+
+***Essential Reverse Chronic Disease program*** screens for the presence of toxic chemicals absorbed by our body from the everyday products that we use and environmental exposure, and looks at nutritional factors that affect chronic diseases. Tests include: GPL-TOX Profile, Glyphosate Test, Food Intolerance Test (FIT), and Organic Acid Test (OAT).
+
+***Advance Reverse Chronic Disease program*** screens for presence of toxic chemicals absorbed by our body from the everyday products that we use and environmental exposure, and looks at nutritional factors that affect chronic diseases. This program takes a closer look at factors such as the intake of vitamin and minerals which affect amino acid metabolism and protein digestion; vitamin D related concerns such as bone health and fat absorption; reactions to specific food items; and intestinal health. Tests include: GPL-TOX Profile, Glyphosate Test, Food Intolerance Test (FIT), Organic Acid Test (OAT), Amino Acid Test, and Vitamin D Test.
+
+***Comprehensive Reverse Chronic Disease Program*** screens for presence of toxic chemicals absorbed by our body from the everyday products that we use and environmental exposure, and looks at nutritional factors that affect chronic diseases. This program takes a closer look at factors such as the intake of vitamin and minerals which affect amino acid metabolism and protein digestion; vitamin D related concerns such as bone health and fat absorption; reactions to specific food items; and intestinal health. Tests and treatments include those in the Essential and Advanced Reverse Chronic Disease programs. In addition, this program includes: a comprehensive stool test to determine the presence of microorganisms that contribute to chronic illness and neurological dysfunction; and a Gluten/Casein Peptide test to determine the body’s inability to digest wheat, rye, barley, and milk.
+
+
+** Who this program is for? **
+
+Individuals suffering from chronic and lifestyle-related diseases such as: diabetes: high cholesterol; heart disease; respiratory diseases such as asthma; arthritis; and the like.
+
+** Expected Benefits  **
+
+Reversal of Chronic Disease, Improved Quality of Life, Prevention of Chronic disease complications.
+
+----
+
+Icon: reverse-chronic-disease.png

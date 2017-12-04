@@ -1,0 +1,40 @@
+Title: Genetic Profiling & Intervention
+
+----
+
+Description: A 6-month program that uses genomics to identify your potential risk of inheriting cancer, heart disease, and other diseases.
+
+----
+
+Width: 96
+
+----
+
+Height: 87
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -102
+
+----
+
+Text: 
+
+This program aims to screen, prevent and create interventions so that you and your children have a healthy future. Learning your family health history can help you manage your own health better, as early intervention can change the way your genes are expressed. Knowing your genetic profile will not only show if you have a genetic predisposition to certain diseases, it will also show how your body responds to certain nutrients, food and medicine. With this information, we can design a healthy lifestyle that reduces your risks of developing potentially inherited diseases
+like cancer.
+
+** Who this program is for **
+
+Individuals with a family history of diseases such as cancer, heart disease, diabetes, and so on.
+
+** Expected Benefits **
+
+Screening and Prevention of potentially inherited diseases, Effective Treatment of diseases that run in the family, Improved quality of life, Optimal health.
+
+----
+
+Icon: inherited-disease-screening-intervention.png

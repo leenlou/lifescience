@@ -1,0 +1,29 @@
+Title: Kinesis and Musculoskeletal Rehab
+
+----
+
+Description: The LifeScience Kinesis Rehab Program can hasten your recovery and help you prevent musculoskeletal injuries and conditions.
+
+----
+
+Width: 130
+
+----
+
+Height: 69
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -1084
+
+----
+
+Text: Regain optimum function. Kinesis combines cardio, flexibility, and strength training to help achieve a specific health goal. Kinesis Muscoskeletal Rehab can help you improve functional strength for daily activities, regain ease of movement, rehabilitate strength and function after injuries, and lose and maintain pounds for your ideal weight.
+
+----
+
+Icon: kinesis-and-musculoskeletal-rehab.png

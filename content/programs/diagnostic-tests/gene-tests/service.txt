@@ -1,0 +1,56 @@
+Title: Gene Tests
+
+----
+
+Description: Diagnostics can identify changes in chromosomes, genes or proteins.
+
+----
+
+Width: 129
+
+----
+
+Height: 100
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -500
+
+----
+
+Text: 
+
+Find out what health issues or conditions you are predisposed to and develop a plan to prevent these issues or conditions from manifesting and being passed on to the next generation. Gene tests include the following:
+
+* Weight Sensor
+* Sports Sensor
+* Nutrition Sensor
+* Breast Health Sensor/Prostate Health Sensor
+* Bone Health Sensor
+* Toxo Sensor
+* Pharmaco Sensor
+* AMD Sensor
+* Glaucoma Sensor
+* Thrombo Sensor
+* Cardiovascular Sensor
+* Diabetes Sensor
+* Hypertonia Sensor
+* Gluten Sensor
+* Lactose Sensor
+* IBD Sensor
+* Alzheimer Sensor
+* Joint Sensor
+* Periodontitis Sensor
+* HIV Resistance Sensor
+* Iron Sensor
+* ADHD Sensor
+* Femsensor Pregnancy
+* Female Health Sensor
+
+----
+
+Icon: gene-tests.png

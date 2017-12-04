@@ -1,0 +1,37 @@
+Title: Metabolic Tests
+
+----
+
+Description: Tests that evaluate your body’s chemical balance and metabolism.
+
+----
+
+Width: 98
+
+----
+
+Height: 103
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -710
+
+----
+
+Text: 
+
+Our well-being is the result of a well-functioning body. Metabolic tests assess our kidney function, blood sugar levels, lung function, bone health, and the body’s water balance.
+
+* Male Hormones
+* Female Hormones
+* Thyroid Assessment
+* Melatonin Tests
+* Adrenocortex Stress Profile
+
+----
+
+Icon: metabolic-tests.png

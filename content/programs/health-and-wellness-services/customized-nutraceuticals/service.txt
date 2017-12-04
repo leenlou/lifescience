@@ -1,0 +1,41 @@
+Title: Customized Nutraceuticals
+
+----
+
+Description: A perfect mix of personalized supplements!
+
+----
+
+Text: 
+
+Customized Nutraceuticals are the perfect mix of supplements for your body! Your body’s uniqueness demands an equally unique mix of daily vitamins, minerals, and other nutrients. The right answer to proper supplementation is customization.
+
+In designing your tailor-fit supplementation program, we take into account your micronutrient profile, food intolerances, habits, work demands, health concerns, and health goals. We work by fully understanding your body’s needs and using your profile to personalize the supplements.
+
+----
+
+Photo: core-nutrition-program.jpg
+
+----
+
+Forbidden: 
+
+----
+
+Width: 57
+
+----
+
+Height: 77
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -1563
+
+----
+
+Icon: customized-nutraceutricals.png

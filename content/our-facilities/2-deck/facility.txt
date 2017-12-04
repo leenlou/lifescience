@@ -1,0 +1,21 @@
+Title: Deck
+
+----
+
+Text: 
+
+ 
+ 
+ 
+ 
+ 
+
+<div style="float:left; margin: 0 30px 50px 0;"> (image: deck-2.jpg)</div>
+<div style="float:left;"><h2>Deck</h2>
+Description
+</div>
+<div style="clear:left;"></div>
+
+----
+
+Photo: deck-372.jpg

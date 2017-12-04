@@ -1,0 +1,21 @@
+Title: Consultation Room
+
+----
+
+Text: 
+
+ 
+ 
+ 
+ 
+ 
+
+<div style="float:left; margin: 0 30px 50px 0;"> (image: consultation-room-2.jpg)</div>
+<div style="float:left;"><h2>Consultation Room</h2>
+Description
+</div>
+<div style="clear:left;"></div>
+
+----
+
+Photo: consultation-room-2-372.jpg

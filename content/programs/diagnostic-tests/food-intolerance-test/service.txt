@@ -1,0 +1,43 @@
+Title: Food Intolerance Test
+
+----
+
+Description: Includes more than 200 food items which might be causing many of your unexplained symptoms.
+
+----
+
+Text: 
+
+The Food Intolerance Test lists down more than 200 food items, which might be causing many of your unexplained symptoms, from recurrent migraines to rashes and rhinitis. The test, together with proper nutritional guidance, will enable you to change your diet. By minimizing your intake of inflammatory food items, you can achieve optimal health.
+
+This screening test allows you to determine how food intolerances factor into your health concerns and allow your medical team to begin healing at the gut level. The Food Intolerance Test can also help your doctor and nutritionist determine if you have a leaky gut, which may be one of the root causes of your symptoms. In many instances, this test is the first step towards healing your gut and the rest of your other systems-related health concerns.
+
+Clients who are taking immunosuppressants and high doses of steroids are advised to consult with their doctor before taking the test.
+
+----
+
+Photo: core-nutrition-program.jpg
+
+----
+
+Forbidden: 
+
+----
+
+Width: 80
+
+----
+
+Height: 101
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -1362
+
+----
+
+Icon: food-intolerance-test.png

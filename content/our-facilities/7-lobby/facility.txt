@@ -1,0 +1,21 @@
+Title: Lobby
+
+----
+
+Text: 
+
+ 
+ 
+ 
+ 
+ 
+
+<div style="float:left; margin: 0 30px 50px 0;"> (image: lobby-2.jpg)</div>
+<div style="float:left;"><h2>Lobby</h2>
+ 
+</div>
+<div style="clear:left;"></div>
+
+----
+
+Photo: lobby-372.jpg

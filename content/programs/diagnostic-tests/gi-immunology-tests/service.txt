@@ -1,0 +1,40 @@
+Title: GI (Gastrointestinal) Immunology
+
+----
+
+Description: Diagnostics to measure your gastrointestinal health.
+
+----
+
+Width: 101
+
+----
+
+Height: 110
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -600
+
+----
+
+Text: 
+
+Good health starts in our gut; it is where digestion and nutrient absorption happens. Our gut supports the immune system. This test measures antibodies that may be linked to inflammatory conditions in the body that cause a range of health issues.
+
+* Digestive Stool Analysis
+* Microbiology
+* Parasitology
+* Intestinal Permeability
+* Gut Immunology
+* Yeast Culture
+* IgG Antibodies
+* Celiac and Gluten Sensitivity
+
+----
+
+Icon: gi-immunology-tests.png

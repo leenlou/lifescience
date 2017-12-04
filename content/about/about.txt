@@ -1,0 +1,27 @@
+Title: About
+
+----
+
+Text: 
+
+<div style="text-align:center;margin:20px 0;" class="vidcontainer"><iframe height="315" width="560" src="https://www.youtube.com/embed/UK9Mn30Ivkc" frameborder="0" allowfullscreen></iframe></div>
+
+We are an integrated facility committed to improving your health, at any age. Using Functional Medicine, we develop cutting-edge personalized programs to help you meet your health goals. These programs are tailor-made for the type of nutrition, movement, and medical treatments that your body needs.
+
+LifeScience offers you a **personalized, innovative, and sustainable** approach to health and wellness through the LifeScience PRO System.
+
+
+**PROfile**
+Have an in-depth chat with one of our doctors. Together, you can discuss your personal health goals, assess your medical history, and take a good look at your current lifestyle.
+
+**PRObe**
+Using the information from your talk, our specialists can explain which diagnostic tests you can take. These tests will help you understand your body even more and find out which imbalances need to be corrected in order to restore and enhance your health.
+							
+**PROgram**
+Your test results will give us a comprehensive profile of your current health. We can then customize a sustainable program that will guide you towards your health goals.
+<span id="facilities"></span>
+No one knows your path to optimal health better than LifeScience!
+
+----
+
+Video-url: 

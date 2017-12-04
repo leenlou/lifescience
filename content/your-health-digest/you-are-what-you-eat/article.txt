@@ -1,0 +1,32 @@
+Title: You are What You Eat
+
+----
+
+Text: 
+
+----
+
+Photo: you-are-what-you-eat.jpg
+
+----
+
+Description: It is important to know specific vitamins and minerals that your body needs as well as the proper dosage.
+
+----
+
+Featured: 0
+
+----
+
+Author: 
+
+----
+
+Related: 
+
+- 
+  slug: womens-month-promo
+
+----
+
+Tags: 

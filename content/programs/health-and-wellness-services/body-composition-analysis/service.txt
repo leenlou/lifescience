@@ -1,0 +1,41 @@
+Title: Body Composition Analysis
+
+----
+
+Description: Get to know how your body functions and what you can do to support and optimize it.
+
+----
+
+Text: 
+
+The Body Composition Analysis (BCA) is a tool that shows the ratio of fat to lean muscle tissue, the percentage of water in your body, your metabolic rate, and your BMI. It also shows how muscle and fat are distributed in the body and helps fitness trainers accurately target areas to work on with your clients. The BCA is inclusive of a doctor’s interpretation.
+
+Call our center to schedule a BCA today!
+
+----
+
+Photo: core-nutrition-program.jpg
+
+----
+
+Forbidden: 
+
+----
+
+Width: 100
+
+----
+
+Height: 100
+
+----
+
+Xpos: 0
+
+----
+
+Ypos: -1463
+
+----
+
+Icon: body-composition-analysis.png
