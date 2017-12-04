@@ -1,0 +1,12 @@
+title: FAQ
+pages: false
+files: false
+fields:
+  question:
+    label: Question
+    type:  text
+    required: true
+  answer:
+    label: Answer
+    type:  markdown
+    required: true

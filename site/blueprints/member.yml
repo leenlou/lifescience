@@ -1,0 +1,23 @@
+title: Member
+pages: false
+files: true
+fields:
+  name:
+    label: Name
+    type:  text
+    required: true
+  position:
+    label: Position
+    type:  text
+    required: true
+  text:
+    label: Text
+    type:  markdown
+    required: true
+  photo:
+    label: Photo
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true

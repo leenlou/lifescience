@@ -1,0 +1,41 @@
+title: Article
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  description:
+    label: Short Description
+    type:  text
+    required: true
+  text:
+    label: Text
+    type:  markdown
+  photo:
+    label: Photo
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true
+  author:
+    label: Author
+    type:  text
+  related:
+    label:   Related articles
+    type:    structure
+    entry:   >
+      {{slug}}
+    fields:
+      slug:
+        label:   Article
+        type:    select
+        options: siblings
+  tags:
+      label: Tags
+      type: tags
+  featured:
+      label:
+      type: checkbox
+      text: Featured post

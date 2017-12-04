@@ -1,0 +1,11 @@
+title: Your Health Digest
+pages:
+  template: article
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  markdown

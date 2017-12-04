@@ -1,0 +1,17 @@
+title: Health Test
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  markdown
+  banner:
+    label: Banner
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true

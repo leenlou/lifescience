@@ -1,0 +1,17 @@
+title: Campaign
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  markdown
+  photo:
+    label: Photo
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true

@@ -1,0 +1,23 @@
+title: Service
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+    required: true
+  description:
+    label: Short Description
+    type:  text
+    required: true
+  text:
+    label: Text
+    type:  markdown
+    required: true
+  icon:
+    label: Icon
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true

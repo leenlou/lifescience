@@ -1,0 +1,16 @@
+title: Career
+pages: false
+files: true
+fields:
+  title:
+    label: Job Title
+    type:  text
+    required: true
+  experience:
+    label: Years of experience
+    type:  text
+    required: true
+  description:
+    label: Description
+    type:  markdown
+    required: true

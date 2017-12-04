@@ -1,0 +1,16 @@
+title: Review
+pages: false
+files: true
+fields:
+  name:
+    label: Name
+    type:  text
+  text:
+    label: Text
+    type:  markdown
+  photo:
+    label: Photo
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first

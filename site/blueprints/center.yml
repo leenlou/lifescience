@@ -1,0 +1,35 @@
+title: Center
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  address:
+    label: Address
+    type:  markdown
+  contact_number_1:
+    label: Contact Number 1
+    type:  text
+  contact_label_1:
+    label: Contact Label 1
+    type:  text
+  contact_number_2:
+    label: Contact Number 2
+    type:  text
+  contact_label_2:
+    label: Contact Label 2
+    type:  text
+  directions:
+    label: Directions
+    type:  text
+  link:
+    label: Map Link
+    type:  text
+  photo:
+    label: Map Photo
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true

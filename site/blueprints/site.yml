@@ -1,0 +1,36 @@
+title: Site
+pages: default
+fields:
+  title:
+    label: Title
+    type:  text
+  author:
+    label: Author
+    type:  text
+  email:
+    label: Email
+    type:  email
+  description:
+    label: Description
+    type:  markdown
+  keywords:
+    label: Keywords
+    type:  tags
+  copyright:
+    label: Copyright
+    type:  markdown
+  office:
+    label: Office
+    type:  markdown
+  facebook:
+    label: Facebook
+    type:  text
+  twitter:
+    label: Twitter
+    type:  text
+  youtube:
+    label: Youtube
+    type:  text
+  instagram:
+    label: Instagram
+    type:  text

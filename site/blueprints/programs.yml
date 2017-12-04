@@ -1,0 +1,21 @@
+title: Programs
+pages:
+  template: service-category
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  subtitle:
+    label: Subtitle
+    type:  text
+  text:
+    label: Text
+    type:  markdown
+  banner:
+    label: Banner
+    type:  selector
+    mode:  single
+    types: image
+    autoselect: first
+    required: true
