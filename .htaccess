@@ -1,0 +1,60 @@
+# Kirby .htaccess
+
+# rewrite rules
+<IfModule mod_rewrite.c>
+
+# enable awesome urls. i.e.:
+# http://yourdomain.com/about-us/team
+RewriteEngine on
+
+# make sure to set the RewriteBase correctly
+# if you are running the site in a subfolder.
+# Otherwise links or the entire site will break.
+#
+# If your homepage is http://yourdomain.com/mysite
+# Set the RewriteBase to:
+#
+# RewriteBase /mysite
+
+# block text files in the content folder from being accessed directly
+RewriteRule ^content/(.*)\.(txt|md|mdown)$ index.php [L]
+
+# block all files in the site folder from being accessed directly
+RewriteRule ^site/(.*) index.php [L]
+
+# block all files in the kirby folder from being accessed directly
+RewriteRule ^kirby/(.*) index.php [L]
+
+# make panel links work
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^admin/(.*) admin/index.php [L]
+
+# make site links work
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*) index.php [L]
+
+</IfModule>
+
+# Additional recommended values
+# Remove comments for those you want to use.
+#
+# AddDefaultCharset UTF-8
+#
+# php_flag short_open_tag on
+
+php_value allow_url_fopen On
+php_value memory_limit 128M
+
+
+Redirect 301 /programs/signature-programs/core-nutrition-program /programs/signature-programs/core-health-program
+
+Redirect 301 /programs/signature-programs/inherited-disease-screening-intervention /programs/signature-programs/genetic-profiling-intervention
+
+Redirect 301 /programs/signature-programs/weight-and-metabolic-management /programs/signature-programs/optimal-weight-management
+
+Redirect 301 /programs/signature-programs/optimum-weight-management /programs/signature-programs/optimal-weight-management
+
+Redirect 301 /programs/health-and-wellness-services/customized-nutraceutricals/ /programs/health-and-wellness-services/customized-nutraceuticals/
+
